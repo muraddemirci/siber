@@ -3,6 +3,8 @@
 0000
 1111
 12345
+A1password
+A1sifrene
 1q2w3e
 qawsed
 aqswde
@@ -10,10 +12,13 @@ aqswde
 987654321
 01234
 012365
+1234@
+12345xz
+1234x
+A112345
 A1sncteknik
 A1snc1234
 A1snc8765421
 A1sncteknik
 A1snc12345678
 A1sncwindows
-A1sncfinans
