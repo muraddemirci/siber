@@ -23,3 +23,5 @@ A1sncteknik
 A1snc1234567
 A1sncwindows
 A1test1234
+admin
+password
