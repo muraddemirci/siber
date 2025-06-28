@@ -8,6 +8,7 @@ windows
 linux
 guest
 admin1
+ctfuser
 finans
 satis
 muhasebe
