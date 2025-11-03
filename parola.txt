@@ -23,6 +23,7 @@ bga62
 1sncteknik
 xnc1234567
 sncwindows
+A1snc1234
 test1234
 admin
 password
