@@ -25,5 +25,6 @@ xnc1234567
 sncwindows
 test1234
 admin
+A1snc1234
 password
 1234x
